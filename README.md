@@ -1,17 +1,24 @@
-# Madi | Backend Software Engineer
+# Madi Alenov
 
-Backend developer building asynchronous services with FastAPI, PostgreSQL and Redis. Interested in distributed systems, LLM integrations and scalable backend architecture.
+**Backend & Systems Developer** — Python & Linux.
 
-### 🏆 Achievements
-- 🥈 2nd Place — WorldSkills Kazakhstan · IT Solutions for Business
+I'm a backend developer from Astana, working mostly in Python. I graduated from AITU with honors and won silver at WorldSkills Kazakhstan in IT Solutions for Business.
 
----
+## Projects
 
-### 🛠 Tech Stack
+**[Forge](https://github.com/alastrm/Forge)** — a container orchestrator for a single server, written with only Python's standard library. Blue/green deploys through Traefik with no downtime, tested with 235k+ requests without dropped connections.
 
-- **Languages:** Python 3.11+, SQL, Bash
-- **Backend:** FastAPI, Django REST Framework, SQLAlchemy (Async), Alembic, Pydantic
-- **Databases & Storage:** PostgreSQL, Redis
-- **Infrastructure & Tools:** Docker, Docker Compose, Linux, Git, Antigravity
+**[Mentora](https://github.com/alastrm/Mentora)** — async backend for an educational platform: FastAPI, PostgreSQL, LLM orchestration.
 
----
+## Stack
+
+- **Languages:** Python (asyncio, multiprocessing, threading), TypeScript, Java
+- **Infrastructure & Systems:** Docker Engine API, Traefik, Linux, Systemd, Bash
+- **Data & State:** SQLite (WAL mode), PostgreSQL, Redis, Django ORM
+- **Frameworks:** FastAPI, Django, Next.js, Spring Boot
+
+## Links
+
+[Portfolio](https://www.madikosh.me) · [Telegram](https://t.me/hsokidam)
+
+> Hesitation — is defeat. — Isshin Ashina, Sekiro: Shadows Die Twice
