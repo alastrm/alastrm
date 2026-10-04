@@ -2,7 +2,7 @@
 
 **Full-stack Developer** — Python, TypeScript.
 
-I'm a backend developer from Astana, working mostly in Python. I graduated from AITU with honors and won silver at WorldSkills Kazakhstan in IT Solutions for Business.
+I'm a full-stack developer from Astana, working mostly in Python. I graduated from AITU with honors and won silver at WorldSkills Kazakhstan in IT Solutions for Business.
 
 ## Projects
 
