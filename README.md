@@ -6,7 +6,7 @@ I'm a full-stack developer from Astana, working mostly in Python. I graduated fr
 
 ## Stack
 
-- **Languages:** Python (asyncio, multiprocessing, threading), TypeScript, Java
+- **Languages:** Python, TypeScript, Java
 - **Infrastructure & Systems:** Docker Engine API, Traefik, Systemd
 - **Data & State:** SQLite (WAL mode), PostgreSQL, Redis, Django ORM
 - **Frameworks:** FastAPI, Django, Next.js, Spring Boot
